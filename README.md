@@ -4,3 +4,4 @@ freeCodeCamp.org course - Data Analysis with Python
 2. demographic-analyzer
 3. medical-data-visualizer
 4. time-series-visualizer
+5. sea-level-predictor
