@@ -5,3 +5,6 @@ freeCodeCamp.org course - Data Analysis with Python
 3. medical-data-visualizer
 4. time-series-visualizer
 5. sea-level-predictor
+
+I learnt more about -
+Pandas, reading and modifying dataframes, creating meanibgful plots, value prediction 
